@@ -20,3 +20,12 @@
 
 **Link(s) to work**
 None
+
+### Day 1: January 2 2018, Monday
+
+**Today's Progress**: I've started dependency injection in spring.
+
+**Thoughts** Dependency Injection is big in spring.
+
+**Link(s) to work**
+None

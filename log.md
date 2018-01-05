@@ -21,7 +21,7 @@
 **Link(s) to work**
 None
 
-### Day 2: January 2 2018, Monday
+### Day 2: January 2 2018, Tuesday
 
 **Today's Progress**: I've started dependency injection in spring.
 
@@ -30,11 +30,29 @@ None
 **Link(s) to work**
 None
 
-### Day 3: January 2 2018, Monday
+### Day 3: January 3 2018, Wednesday
 
 **Today's Progress**: I am continuing dependency injection in spring.
 
 **Thoughts** Dependency Injection is big in spring.
+
+**Link(s) to work**
+None
+
+### Day 4: January 4 2018, Thrusday
+
+**Today's Progress**: Spring 5 DI using qualifier and primary beans
+
+**Thoughts** basic concepts of spring 5
+
+**Link(s) to work**
+None
+
+### Day 5: January 5 2018, Friday
+
+**Today's Progress**: Early morning lesson on spring 5 profiles and intro to Spring Bean Life Cycle
+
+**Thoughts** to revisit Spring bean life cycle
 
 **Link(s) to work**
 None

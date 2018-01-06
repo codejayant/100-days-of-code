@@ -56,3 +56,12 @@ None
 
 **Link(s) to work**
 None
+
+### Day 6: January 6 2018, Saturday
+
+**Today's Progress**: Late night work on creating sample joke app in spring boot
+
+**Thoughts** getting hang of spring boot. 
+
+**Link(s) to work**
+None

@@ -65,3 +65,12 @@ None
 
 **Link(s) to work**
 None
+
+### Day 7: January 8 2018, Monday
+
+**Today's Progress**: Started on Spring Framework Configuration
+
+**Thoughts** important topic 
+
+**Link(s) to work**
+None

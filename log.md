@@ -74,3 +74,12 @@ None
 
 **Link(s) to work**
 None
+
+### Day 8: January 12 2018, Friday
+
+**Today's Progress**: R1D8: studied spring config options, java config, xml config, spring boot config and bean scope
+
+**Thoughts** Java and XML configuration and bean scope : will have to revisit 
+
+**Link(s) to work**
+None

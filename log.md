@@ -83,3 +83,12 @@ None
 
 **Link(s) to work**
 None
+
+### Day 9: January 14 2018, Sunday
+
+**Today's Progress**: R1D9: created a very basic recipe app using spring boot
+
+**Thoughts** Need to progress complex app. 
+
+**Link(s) to work**
+None
